@@ -1,0 +1,62 @@
+[
+      {
+        id: 100,
+        name: 'Apple',
+        description: 'red and crunchy',
+        is_fav: false,
+        group: 'fruits',
+        image: '../assets/apple.png',
+        nutrition_data: {
+          serving_size_text: '1 medium',
+          serving_size_grams: 182,
+          calories: 98.6,
+          fat: 0.3,
+          carbs: 25.1,
+          protein: 0.5,
+          vit_a_daily_percent: 2,
+          vit_c_daily_percent: 14,
+          calcium_c_daily_percent: 1,
+          iron_c_daily_percent: 1
+        }
+      },
+      {
+        id: 101,
+        name: 'Banana',
+        description: 'yellow and soft',
+        is_fav: false,
+        group: 'fruits',
+        image: '../assets/banana.jpg',
+        nutrition_data: {
+          serving_size_text: '1 medium',
+          serving_size_grams: 182,
+          calories: 98.6,
+          fat: 0.3,
+          carbs: 25.1,
+          protein: 0.5,
+          vit_a_daily_percent: 2,
+          vit_c_daily_percent: 14,
+          calcium_c_daily_percent: 1,
+          iron_c_daily_percent: 1
+        }
+      },
+      {
+        id: 102,
+        name: 'Eggs',
+        description: 'fragile',
+        is_fav: false,
+        group: 'dairy',
+        image: '../assets/eggs.jpg',
+        nutrition_data: {
+          serving_size_text: '1 medium',
+          serving_size_grams: 182,
+          calories: 98.6,
+          fat: 0.3,
+          carbs: 25.1,
+          protein: 0.5,
+          vit_a_daily_percent: 2,
+          vit_c_daily_percent: 14,
+          calcium_c_daily_percent: 1,
+          iron_c_daily_percent: 1
+        }
+      }
+    ]
